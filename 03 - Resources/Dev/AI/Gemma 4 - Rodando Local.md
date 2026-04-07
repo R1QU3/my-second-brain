@@ -126,4 +126,4 @@ ollama rm gemma4:e2b
 
 ---
 
-**Veja tambem:** [[Ollama]] | [[LLMs Locais]]
+**Veja tambem:** [[LLMs Locais]]
